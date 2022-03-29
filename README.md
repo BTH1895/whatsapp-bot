@@ -1,4 +1,4 @@
-## WhatsApp User Bot
+## BTH-SER-WHATSAPP-BOT
 
 This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
@@ -104,7 +104,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Block/unblock     | Blocks/unblocks members      |
 |   ✔️   | Broadcast         | Custom Broadcasting Messages |
 
-## Thanks To
+## PLEAS SUPPORT
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [SUBSCRIBE BTH YT]https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ) & [FOLLOW BTH IG](https://instagram.com/_.shibi_li_?utm_medium=copy_link)
+- [JOIN BTH WA GROUP](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu) & [JOIN TELEGRAM GROUP](https://t.me/+9naLJVZEox40MGE1)
